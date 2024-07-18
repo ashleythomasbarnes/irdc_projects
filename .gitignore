@@ -1,3 +1,6 @@
 
 iram_CloudH/.DS_Store
 .DS_Store
+*.fits
+/alma_cloudH/cloudh_sio_12m7m.img
+/alma_cloudH
